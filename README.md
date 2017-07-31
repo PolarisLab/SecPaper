@@ -1,2 +1,2 @@
 # SecPaper
-SecPaper For www.mottoin.com
+SecPaper For www.polaris-lab.com

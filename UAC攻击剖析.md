@@ -2,9 +2,7 @@
 
 原文：[fuzzysecurity](http://www.fuzzysecurity.com/tutorials/27.html)
 
-译者：[MottoIn](http://www.mottoin.com)
-
-来源：[http://www.mottoin.com/90755.html](http://www.mottoin.com/90755.html)
+译者：[PolarisLab](http://www.polaris-lab.com)
 
 ## 0x00 前言 ##
 
